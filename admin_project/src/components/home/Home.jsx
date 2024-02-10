@@ -54,7 +54,7 @@ function Home() {
     return (
         <>
             <div className="homeContainer">
-                <h1 className="home">Hello {location.state.id} !!</h1>
+                <h1 className="home">Hello {location.state.id} !!  <br/>Welcome to Dashboard</h1>
                 <div className="loginRight">
                     <div className="loginBox">
                         <div className='sign'>Profile</div>
